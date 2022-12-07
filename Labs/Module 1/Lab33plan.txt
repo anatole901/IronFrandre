@@ -1,0 +1,10 @@
+Lab 33 Data preparation
+
+I imported the dataset from Excel. I need to make some data preparation. First, I need to drop columns 7 and 8 and row 30 that do not belong to
+the dataset.
+
+Transaction and client columns seem OK. Birthyear column needs to be converted to integer since there are floating numbers here that are not
+relevant. I need to correct the birthyear that is inconsistent and fill the missing values thanks to other lines with same client ID. In the
+amount column, I need to delete the outlier value and replace it. In the profession column, I need to fill the missing values thanks to the
+lines with same client ID and I need to format all the data to deal with inconstitencies. I need to delete the department column because all
+data are the same in that column, so they are not relevant in this dataset. Column Risk is OK.
