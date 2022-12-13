@@ -1,0 +1,1 @@
+In this project, we have data about american companies including their EBITDA. We created a dashboard on Tableau to visualize important KPIs on our data.

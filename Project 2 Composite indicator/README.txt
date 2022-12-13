@@ -1,0 +1,1 @@
+In this project, we compared the different countries in Europe by different indicators for employment. We created a composite indicator based of the rate of employment in different parts of the population and ranked the countries according to this indicator.

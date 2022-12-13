@@ -1,0 +1,3 @@
+In this project, I worked on the record of the bookings of an hotel group mostly present in Europe. I created a streamlit app that allows the user to get vizualisations made with python according to parameters that he inputs thanks to widgets in the sidebar.
+
+To use the streamlit app, open an anaconda command line interface, go to the folder of the project and type the command : streamlit run project5.py

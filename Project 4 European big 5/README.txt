@@ -1,0 +1,1 @@
+In this project, we worked on the record of all matches played in the German professional league of soccer. We created visualizations on python to show the main statistics on the competition.

@@ -1,0 +1,1 @@
+In this project, we have data on bookings on the Uber platform. We implemented unsupervised machine learning algorithms to cluster our data and created maps with the folium library to visualize our clusters in New York.

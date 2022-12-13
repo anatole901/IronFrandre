@@ -1,0 +1,1 @@
+This is the repository with all my work at Ironhack. One folder with the files used in lessons named course, one folder with my labs and one folder for each of the 9 weekly projects.
